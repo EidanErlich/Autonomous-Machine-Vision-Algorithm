@@ -9,5 +9,5 @@ and provide real-time positioning data using a depth camera, enhancing manufactu
 
 ![477A4B11-EF50-47CC-9CEC-4160ED4B11B6_1_105_c](https://github.com/EidanErlich/Autonomous-Machine-Vision-Algorithm/assets/59021649/8e16e6cf-f095-4ef1-b17b-a8208005635a)
 
-## Disclaimer:
+Disclaimer:
 Please be aware that the code provided in this repository is incomplete and lacks the necessary drivers for the camera.
